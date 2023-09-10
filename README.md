@@ -171,7 +171,7 @@ npx eslint .
 
 👤 **Sadaf Daneshgar**
 
-- 👤 GitHub: [@Sadaf-Daneshgar](https://github.com/M-Anwar-Hussaini)
+- 👤 GitHub: [@Sadaf-Daneshgar](https://github.com/sadaf-Daneshgar)
 - 👤 Twitter: [@SadafDaneshgar](https://twitter.com/SadafDaneshgar)
 - 👤 LinkedIn: [Sadaf Daneshgar](https://www.linkedin.com/in/sadaf-daneshgar-00480a242/)
 
@@ -212,7 +212,7 @@ If you like this project, kindly drop a start for the [repository](https://githu
 
 **I would like to thank the following individuals and organizations for their contribution to this project.**
 
-- I would like to express my heartfelt gratitude to [**Microvere**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided. The supportive community, dedicated mentors, and remote collaboration opportunities have enhanced my technical skills and prepared me for real-world projects. I extend my appreciation to the mentors and staff members for their guidance and support. The friendships and knowledge sharing within the Microverse community have made this journey truly rewarding.
+- I would like to express my heartfelt gratitude to [**Microvere**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
