@@ -1,6 +1,6 @@
 import React from 'react';
 import './style.css';
-import InputNumber from './Button';
+import InputNumber from './Input';
 
 function Calculator() {
   return (
