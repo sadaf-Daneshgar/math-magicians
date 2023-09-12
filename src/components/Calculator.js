@@ -3,12 +3,14 @@ import './style.css';
 import InputNumber from './Input';
 import calculate from '../logic/calculate';
 
+const CalculatorData = {
+  total: null,
+  next: null,
+  operation: null,
+};
+
 const Calculator = () => {
-  const [numbers, setNumbers] = useState({
-    total: null,
-    next: null,
-    operation: null,
-  });
+  const [numbers, setNumbers] = useState(CalculatorData);
 
   const ClickEventHandlers = (event) => {
     setNumbers(calculate(numbers, event));
