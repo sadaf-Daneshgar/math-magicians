@@ -29,6 +29,7 @@ body {
   border: none;
   outline: none;
   padding: 50px 0 0 11px;
+  justify-content: space-around;
 }
 
 .rows-contanier {
