@@ -18,7 +18,7 @@ const Calculator = () => {
   return (
     <>
       <div className="container">
-        <InputNumber className="numInput" value={numbers.next || numbers.total || '0'} />
+        <InputNumber className="numInput" value={numbers.next || numbers.operation || numbers.total || '0'} />
         <div className="rows-contanier">
           <div className="horizontal-rows">
             <button className="num-buttons" type="button" onClick={() => ClickEventHandlers('AC')}>
