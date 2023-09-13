@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react";
-import "./quote.css";
+import { useState, useEffect } from 'react';
+import './quote.css';
 
 export default function ShowQuote() {
   const [retell, setRetell] = useState([]);
@@ -9,17 +9,17 @@ export default function ShowQuote() {
   useEffect(() => {
     const fetchData = async () => {
       setIsLoading(true);
-      const category = "amazing";
-      const apiKey = "bnqnnOM1gde1qM8Farv5hA==Z9wth7aFcidEsatZ";
+      const category = 'amazing';
+      const apiKey = 'bnqnnOM1gde1qM8Farv5hA==Z9wth7aFcidEsatZ';
       try {
         const res = await fetch(
           `https://api.api-ninjas.com/v1/quotes?category=${category}`,
           {
-            methode: "GET",
+            methode: 'GET',
             headers: {
-              "X-Api-Key": apiKey,
+              'X-Api-Key': apiKey,
             },
-          }
+          },
         );
 
         const json = await res.json();
@@ -39,10 +39,10 @@ export default function ShowQuote() {
   return (
     <>
       <div className="quote-container">
-        <div className="title-quote">Amazing Quotes</div>
+        <div className="title-quote">Amazing Quotes ⭐️</div>
         <p className="quote">{retell.quote}</p>
         <h2 className="author">
-          By:
+          👤 By:
           {retell.author}
         </h2>
         <p className="catagory">
