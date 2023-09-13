@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 420px;
-  margin: 100px auto;
+  margin: 70px auto;
   box-shadow: -1px 8px 22px -6px rgba(0, 0, 0, 0.4);
   border: 2px solid orange;
   border-radius: 6px;
