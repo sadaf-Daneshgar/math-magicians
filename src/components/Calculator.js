@@ -3,12 +3,14 @@ import './style.css';
 import InputNumber from './Input';
 import calculate from '../logic/calculate';
 
+const CalculatorData = {
+  total: null,
+  next: null,
+  operation: null,
+};
+
 const Calculator = () => {
-  const [numbers, setNumbers] = useState({
-    total: null,
-    next: null,
-    operation: null,
-  });
+  const [numbers, setNumbers] = useState(CalculatorData);
 
   const ClickEventHandlers = (event) => {
     setNumbers(calculate(numbers, event));
@@ -16,7 +18,7 @@ const Calculator = () => {
   return (
     <>
       <div className="container">
-        <InputNumber className="numInput" value={numbers.next || numbers.total || '0'} />
+        <InputNumber className="numInput" value={numbers.next || numbers.operation || numbers.total || '0'} />
         <div className="rows-contanier">
           <div className="horizontal-rows">
             <button className="num-buttons" type="button" onClick={() => ClickEventHandlers('AC')}>
