@@ -30,7 +30,7 @@ export default function ShowQuote() {
       setIsLoading(false);
     };
     fetchData();
-  }, []);
+  }, [setRetell, setIsLoading]);
 
   if (hasError) return <div className="load">Something went wrong!</div>;
 
