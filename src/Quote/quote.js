@@ -25,7 +25,7 @@ export default function ShowQuote() {
         const json = await res.json();
         setRetell(json[0]);
       } catch (error) {
-        setHasError(false);
+        setHasError(true);
       }
       setIsLoading(false);
     };
