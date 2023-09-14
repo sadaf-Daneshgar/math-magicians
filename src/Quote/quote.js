@@ -47,7 +47,7 @@ export default function ShowQuote() {
         </h2>
         <p className="catagory">
           Type of Quote:
-          {retell.category}
+          { retell.category}
         </p>
       </div>
     </>
