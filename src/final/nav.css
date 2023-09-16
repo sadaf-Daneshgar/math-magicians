@@ -16,13 +16,13 @@ body {
 }
 
 nav {
-  display: flex;   
+  display: flex;
   gap: 60px;
   border: 1px solid orange;
   width: 540px;
   padding: 20px;
   margin: 50px auto;
-  border-radius: 8px
+  border-radius: 8px;
 }
 
 .nav {
@@ -30,7 +30,7 @@ nav {
   gap: 10px;
 }
 
-li{
+li {
   list-style: none;
   border: 1px solid rgb(151, 130, 91);
   border-radius: 6px;
@@ -44,4 +44,3 @@ li:hover {
 a {
   text-decoration: none;
 }
-  
