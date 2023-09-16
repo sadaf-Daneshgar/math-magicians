@@ -17,6 +17,7 @@ const Calculator = () => {
   };
   return (
     <>
+      <p className="math-title">Let`s do some math!</p>
       <div className="container">
         <InputNumber className="numInput" value={numbers.next || numbers.operation || numbers.total || '0'} />
         <div className="rows-contanier">
