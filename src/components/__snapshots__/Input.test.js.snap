@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputNumber component snapshot 1`] = `
+<div
+  className="test-class"
+>
+  123
+</div>
+`;

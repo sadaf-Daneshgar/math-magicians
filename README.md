@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- ✅ Coming soon...
+- ✅  Click [here](https://math-magicians-cc604zf9c-sadaf-daneshgar-s-team.vercel.app/) to see the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
