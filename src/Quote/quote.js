@@ -9,7 +9,7 @@ export default function ShowQuote() {
   useEffect(() => {
     const fetchData = async () => {
       setIsLoading(true);
-      const category = 'amazing';
+      const category = 'computers';
       const apiKey = 'bnqnnOM1gde1qM8Farv5hA==Z9wth7aFcidEsatZ';
       try {
         const res = await fetch(
