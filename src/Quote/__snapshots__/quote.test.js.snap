@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowQuote component snapshot 1`] = `
+<div
+  className="quote-container"
+>
+  <div
+    className="title-quote"
+  >
+    Amazing Quotes ⭐️
+  </div>
+  <p
+    className="quote"
+  />
+  <h2
+    className="author"
+  >
+    👤 By:
+  </h2>
+  <p
+    className="catagory"
+  >
+    Type of Quote:
+  </p>
+</div>
+`;

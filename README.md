@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- ✅ Coming soon...
+- ✅ Click [here](https://math-magicians-cc604zf9c-sadaf-daneshgar-s-team.vercel.app/) to see the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,6 +175,12 @@ npx eslint .
 - 👤 Twitter: [@SadafDaneshgar](https://twitter.com/SadafDaneshgar)
 - 👤 LinkedIn: [Sadaf Daneshgar](https://www.linkedin.com/in/sadaf-daneshgar-00480a242/)
 
+👤 **Evans Nyamekye**
+
+- 👤 GitHub: [evansnyamekye](https://github.com/evansnyamekye)
+- 👤 Twitter: [@nyamekye2131](https://twitter.com/nyamekye2131)
+- 👤 LinkedIn: [Evans Kofi Nyamekye](https://www.linkedin.com/in/evans-kofi-nyamekye-1980a4117/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -212,7 +218,7 @@ If you like this project, kindly drop a start for the [repository](https://githu
 
 **I would like to thank the following individuals and organizations for their contribution to this project.**
 
-- I would like to express my heartfelt gratitude to [**Microvere**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided. 
+- I would like to express my heartfelt gratitude to [**Microvere**](https://www.microverse.org/?grsf=mohammad-a-nbtazu) for the invaluable learning experience they have provided.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
